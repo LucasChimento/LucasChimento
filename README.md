@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**LucasChimento/LucasChimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acerca de mí
+Soy Lucas Chimento, un Desarrollador Backend con experiencia en Java
 
-Here are some ideas to get you started:
+Technical Skills
+Lenguajes de programación: Java
+- 🌱 I’m currently learning: Python / .NET 
+Bases de datos: MySQL
+Herramientas y tecnologías adicionales: Eclipse / IntellijIDEA / Netbeans
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto
+LinkedIn: (https://www.linkedin.com/in/lucas-chimento/)
+Correo electrónico: lucaschimento@outlook.com
